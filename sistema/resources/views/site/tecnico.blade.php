@@ -92,7 +92,7 @@
   <div class="card-body">
     <h5 class="card-title">Administração</h5>
     <p class="card-text">Planejar, definir metas e objetivos para o crescimento e sustentabilidade da organização.</p>
-    <a href="#" class="btn btn-primary">Ver Curso</a>
+    <a href="https://eteczonaleste.cps.sp.gov.br/cursos-etec/administracao/" class="btn btn-primary">Ver Curso</a>
   </div>
 </div>
 <br><br>
@@ -101,7 +101,7 @@
   <div class="card-body">
     <h5 class="card-title">Contabilidade</h5>
     <p class="card-text">Calcular lucros, prejuízos e realizar operações financeiras cruciais além de estudo das leis e regulamentos.</p>
-    <a href="#" class="btn btn-primary">Ver Curso</a>
+    <a href="https://eteczonaleste.cps.sp.gov.br/cursos-etec/contabilidade/" class="btn btn-primary">Ver Curso</a>
   </div>
 </div>
 <br><br>
@@ -110,7 +110,7 @@
   <div class="card-body">
     <h5 class="card-title">Desenvolvimento de Sistema</h5>
     <p class="card-text">Constrói, documenta, realiza testes e mantém sistemas de informação. Utiliza ambientes de desenvolvimento e linguagens de programação. </p>
-    <a href="#" class="btn btn-primary">Ver Curso</a>
+    <a href="https://eteczonaleste.cps.sp.gov.br/cursos-etec/analise-e-desenvolvimento-de-sistema/" class="btn btn-primary">Ver Curso</a>
   </div>
 </div>
     </div>
@@ -120,7 +120,7 @@
   <div class="card-body">
     <h5 class="card-title">Finanças</h5>
     <p class="card-text">O estudante vai aprender diversas operações financeiras, como financiamentos, empréstimos e aplicações. </p>
-    <a href="#" class="btn btn-primary">Ver Curso</a>
+    <a href="https://eteczonaleste.cps.sp.gov.br/cursos-etec/financas/" class="btn btn-primary">Ver Curso</a>
   </div>
 </div>
 <br><br>
@@ -129,7 +129,7 @@
   <div class="card-body">
     <h5 class="card-title">Logística</h5>
     <p class="card-text">Movimentação das cargas e produtos, equipamentos adequados e o armazenamento de diferentes tipos de produto.</p>
-    <a href="#" class="btn btn-primary">Ver Curso</a>
+    <a href="https://eteczonaleste.cps.sp.gov.br/cursos-etec/logistica/" class="btn btn-primary">Ver Curso</a>
   </div>
 </div>
     </div>
@@ -140,7 +140,7 @@
   <div class="card-body">
     <h5 class="card-title">Recursos Humanos</h5>
     <p class="card-text">Contratação, demissão e aposentadoria de funcionários e oferta de benefícios (vale-transporte, vale-refeição etc.).</p>
-    <a href="#" class="btn btn-primary">Ver Curso</a>
+    <a href="https://eteczonaleste.cps.sp.gov.br/cursos-etec/recursos-humanos-2/" class="btn btn-primary">Ver Curso</a>
   </div>
 </div>
 <br><br>
@@ -149,7 +149,7 @@
   <div class="card-body">
     <h5 class="card-title">Serviços Jurídicos</h5>
     <p class="card-text">Direito empresarial e o Direito do Trabalho, direitos e responsabilidades de empregadores e funcionários.</p>
-    <a href="#" class="btn btn-primary">Ver Curso</a>
+    <a href="https://eteczonaleste.cps.sp.gov.br/cursos-etec/servicos-juridicos/" class="btn btn-primary">Ver Curso</a>
   </div>
 </div>
     </div>
