@@ -94,7 +94,7 @@
   <div class="card-body">
     <h5 class="card-title">Novotec Administração</h5>
     <p class="card-text">Planejar, definir metas e objetivos para o crescimento e sustentabilidade da organização.</p>
-    <a href="#" class="btn btn-primary">Ver Curso</a>
+    <a href="https://eteczonaleste.cps.sp.gov.br/cursos-etec/novotec-logistica/" class="btn btn-primary">Ver Curso</a>
   </div>
 </div>
 <br><br>
@@ -103,7 +103,7 @@
   <div class="card-body">
     <h5 class="card-title">Novotec Desenvolvimento de Sistemas</h5>
     <p class="card-text">Constrói, documenta, realiza testes e mantém sistemas de informação. Utiliza ambientes de desenvolvimento e linguagens de programação.</p>
-    <a href="#" class="btn btn-primary">Ver Curso</a>
+    <a href="https://eteczonaleste.cps.sp.gov.br/cursos-etec/novotec-desenvolvimento-de-sistemas/#" class="btn btn-primary">Ver Curso</a>
   </div>
 </div>
     </div>
@@ -125,7 +125,7 @@
   <div class="card-body">
     <h5 class="card-title"> Novotec Recursos Humanos</h5>
     <p class="card-text">Contratação, demissão e aposentadoria de funcionários e oferta de benefício.</p>
-    <a href="#" class="btn btn-primary">Ver Curso</a>
+    <a href="https://eteczonaleste.cps.sp.gov.br/cursos-etec/recursos-humanos/" class="btn btn-primary">Ver Curso</a>
   </div>
 </div>
     </div>
