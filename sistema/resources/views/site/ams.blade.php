@@ -94,7 +94,7 @@
   <div class="card-body">
     <h5 class="card-title">Novotec Desenvolvimento de Sistemas AMS (Tarde)</h5>
     <p class="card-text">O candidato que ingressar no curso técnico de Desenvolvimento de Sistemas, na modalidade AMS, poderá prosseguir os estudos em uma Fatec.</p>
-    <a href="#" class="btn btn-primary">Ver Curso</a>
+    <a href="https://eteczonaleste.cps.sp.gov.br/cursos-etec/desenvolvimento-de-sistemas/" class="btn btn-primary">Ver Curso</a>
   </div>
 </div>
 
