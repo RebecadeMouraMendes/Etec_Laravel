@@ -75,7 +75,6 @@
       </a>
     </div>
   </nav>
-  <br><br>
 
   <div class="container text-start pt-5">
         <div class="row">
@@ -86,8 +85,6 @@
             </div>
         </div>
     </div>
-    <br>
-    <br>
     <div class="container text-start pt-2 pb-5">
         <div class="row">
             <div class="col">
